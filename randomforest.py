@@ -1,4 +1,8 @@
 # random forest 
+# need to clean and organize data as well 
+# split/ check that data is split into correct feutures and targets (X = independent vars, Y = dependent/ target) 
+
+
 import pandas as pd 
 import matplotlib.pyplot as plt
 import seaborn as sns
